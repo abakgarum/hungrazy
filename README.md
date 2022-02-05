@@ -1,6 +1,11 @@
 # hungrazy
 Food ordering flutter hybrid application. 
 
+## Output 
+![This is an image1] (/assets/images/home_page.png)
+![This is an image2] (/assets/images/h_menu.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
