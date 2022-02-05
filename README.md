@@ -2,8 +2,8 @@
 Food ordering flutter hybrid application. 
 
 ## Output 
-![This is an image1] (/assets/images/home_page.png)
-![This is an image2] (/assets/images/h_menu.png)
+![This is an image1] (https://github.com/abakgarum/hungrazy/blob/main/assets/images/h_menu.png)
+![This is an image2] (https://github.com/abakgarum/hungrazy/blob/main/assets/images/home_page.png)
 
 
 ## Getting Started
